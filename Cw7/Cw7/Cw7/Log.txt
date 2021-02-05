@@ -1,0 +1,17 @@
+{"Date":"2021-01-25T17:13:42.3579161+01:00","Method":"GET","Path":"/","Body":"","QueryString":""}
+{"Date":"2021-01-25T17:14:46.065047+01:00","Method":"GET","Path":"/","Body":"","QueryString":""}
+{"Date":"2021-01-25T17:26:35.6994059+01:00","Method":"GET","Path":"/","Body":"","QueryString":""}
+{"Date":"2021-01-25T17:27:34.1684256+01:00","Method":"GET","Path":"//api/students","Body":"","QueryString":""}
+{"Date":"2021-01-25T17:27:43.7893172+01:00","Method":"GET","Path":"/api/students","Body":"","QueryString":""}
+{"Date":"2021-01-25T17:27:44.1368417+01:00","Method":"GET","Path":"/favicon.ico","Body":"","QueryString":""}
+{"Date":"2021-01-25T19:08:59.2388526+01:00","Method":"GET","Path":"/api/students","Body":"","QueryString":""}
+{"Date":"2021-01-25T19:09:06.5290911+01:00","Method":"GET","Path":"/api/login","Body":"","QueryString":""}
+{"Date":"2021-01-25T19:09:16.9407699+01:00","Method":"GET","Path":"/api/login","Body":"{\r\n\u0022IndexNumber\u0022: \u0022s1234\u0022,\r\n\u0022FirstName\u0022: \u0022Andrzej\u0022,\r\n\u0022LastName\u0022: \u0022Malewski\u0022,\r\n\u0022BirthDate\u0022: \u002230.03.1993\u0022\r\n\u0022Studies\u0022: \u0022IT\u0022\r\n}","QueryString":""}
+{"Date":"2021-01-25T19:09:53.8895331+01:00","Method":"POST","Path":"/api/login","Body":"{\r\n\u0022IndexNumber\u0022: \u0022s1234\u0022,\r\n\u0022FirstName\u0022: \u0022Andrzej\u0022,\r\n\u0022LastName\u0022: \u0022Malewski\u0022,\r\n\u0022BirthDate\u0022: \u002230.03.1993\u0022\r\n\u0022Studies\u0022: \u0022IT\u0022\r\n}","QueryString":""}
+{"Date":"2021-01-25T19:11:31.5860194+01:00","Method":"POST","Path":"/api/login","Body":"{\r\n\u0022Username\u0022: \u0022s12891\u0022,\r\n\u0022Password\u0022: \u0022sakjfnap\u0022\r\n}","QueryString":""}
+{"Date":"2021-01-25T19:11:52.8290913+01:00","Method":"POST","Path":"/api/login","Body":"{\r\n\u0022Username\u0022: \u0022s12891\u0022,\r\n\u0022Password\u0022: \u0022sakjfnap\u0022\r\n}","QueryString":""}
+{"Date":"2021-01-27T18:12:16.8728828+01:00","Method":"GET","Path":"/api/students","Body":"","QueryString":""}
+{"Date":"2021-02-05T17:44:44.3395749+01:00","Method":"GET","Path":"/api/students","Body":"","QueryString":""}
+{"Date":"2021-02-05T17:45:53.5458763+01:00","Method":"GET","Path":"/api/enrollments","Body":"","QueryString":""}
+{"Date":"2021-02-05T17:46:40.3872668+01:00","Method":"POST","Path":"/api/enrollments","Body":"{\r\n\u0022Username\u0022: \u0022s12891\u0022,\r\n\u0022Password\u0022: \u0022sakjfnap\u0022\r\n}","QueryString":""}
+{"Date":"2021-02-05T17:47:35.0192074+01:00","Method":"GET","Path":"/api/students","Body":"","QueryString":""}
